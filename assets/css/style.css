@@ -1127,7 +1127,16 @@ Icon for all respective meta
     justify-content: space-between;
 }
 
-.popup_in, .popup_in2 i {
+.popup_in i {
+    position: absolute;
+    top: -60px;
+    right: 0%;
+    font-size: 50px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.popup_in2 i {
     position: absolute;
     top: -60px;
     right: 0%;
