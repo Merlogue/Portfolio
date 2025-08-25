@@ -1114,6 +1114,19 @@ Icon for all respective meta
     justify-content: space-between;
 }
 
+.popup_in2 {
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
 .popup_in i {
     position: absolute;
     top: -60px;
